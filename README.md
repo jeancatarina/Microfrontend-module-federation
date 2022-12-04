@@ -27,6 +27,8 @@ host_blahBlahApi__WEBPACK_IMPORTED_MODULE_1___default(...) is not a function
   
 https://www.youtube.com/watch?v=lKKsjpH09dU
   
+2. https://webpack.js.org/concepts/module-federation/
+  
 ### Study projects
 1. https://github.com/jherr/micro-fes-beginner-to-expert
 2. https://github.com/jherr/wp5-dashboard
