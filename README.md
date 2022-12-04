@@ -20,4 +20,13 @@ host_blahBlahApi__WEBPACK_IMPORTED_MODULE_1___default(...) is not a function
 
 3. Cannot read properties of undefined (reading 'displayName'). Warning: lazy: Expected the result of a dynamic import() call. Instead received: [object Module] 
 
-**Solution:** Forgot to add an export default <ComponentName> at the bottom of the exposed component page. In my projects usually i dont use export default in nothing, but in microfrontend, your app needs to be exported as default
+**Solution:** Forgot to add an export default <ComponentName> at the bottom of the exposed component page. In my projects usually i don't use export default in anything, but in micro frontends, your app needs to be exported as default
+
+### Where to study
+1. Micro-Frontends Course - Beginner to Expert
+  
+https://www.youtube.com/watch?v=lKKsjpH09dU
+  
+### Study projects
+1. https://github.com/jherr/micro-fes-beginner-to-expert
+2. https://github.com/jherr/wp5-dashboard
